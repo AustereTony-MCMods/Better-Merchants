@@ -1,0 +1,56 @@
+better_merchants.gui.management.profiles.title=Управление Профилями Торговцев
+better_merchants.gui.management.entities.title=Управление Привязанными Сущностями
+better_merchants.gui.management.create=Создать
+better_merchants.gui.management.write=Записать
+
+better_merchants.overlay.interact=Взаимодействовать
+
+better_merchants.gui.management.saveChangesButton=Сохранить
+better_merchants.gui.management.changeCurrencyButton=Изменить
+better_merchants.gui.management.createOfferButton=Нов. Сделка
+
+better_merchants.gui.currency=Монеты
+better_merchants.gui.confirmButton=Ок
+better_merchants.gui.cancelButton=Отменить
+better_merchants.gui.management.name=Имя
+better_merchants.gui.management.profile=Сделка
+better_merchants.gui.management.profileCreationCallback=Создание Профиля
+better_merchants.gui.management.profileGenericName=Профиль
+better_merchants.gui.management.removeProfileCallback=Удаление Профиля
+better_merchants.gui.management.removeProfileCallback.request=Профиль %s будет удалён.
+better_merchants.gui.management.editProfileName=Изменить Имя
+better_merchants.gui.management.editProfileCurrency=Изменить Валюту
+better_merchants.gui.management.newOffer=Новая Сделка
+better_merchants.gui.management.remove=Удалить
+better_merchants.gui.management.nameEditingCallback=Редактирование Названия Профиля
+better_merchants.gui.management.saveCallback=Сохранение Изменений
+better_merchants.gui.management.saveCallback.request=Синхронизировать с сервером?
+better_merchants.gui.management.currencyManagementCallback=Настройка Валюты
+better_merchants.gui.management.offerCreationCallback=Создание Сделки
+better_merchants.gui.management.offerEditingCallback=Изменение Сделки
+better_merchants.gui.management.useCurrency=Использовать Валюту
+better_merchants.gui.management.useItem=Использовать Предмет
+better_merchants.gui.management.amount=Количество
+better_merchants.gui.management.cost=Стоимость
+better_merchants.gui.management.enableSelling=Разрешить Скупку
+better_merchants.gui.management.sellingOnly=Только скупка
+better_merchants.gui.management.sellingCost=Стоимость Скупки
+better_merchants.gui.management.noSellingp=Нет Скупки
+better_merchants.gui.management.edit=Изменить
+better_merchants.gui.management.openProfileButton=Открыть
+better_merchants.gui.management.merchantCreationCallback=Создание Торговца
+better_merchants.gui.management.profession=Профессия
+better_merchants.gui.management.merchantProfession=Торговец
+
+better_merchants.gui.management.sellFor=Скупка за %s
+
+better_merchants.gui.merchant.buy=Покупка
+better_merchants.gui.merchant.selling=Продажа
+
+better_merchants.tooltip.profiles=Профили Торговцев
+better_merchants.tooltip.entities=Привязанные Сущности
+better_merchants.tooltip.edit=Редактировать
+
+better_merchants.command.reloadSettings=Настройки ГПИ перезагружены.
+better_merchants.command.resetData=Данные сброшены для клиента.
+better_merchants.command.loadCurrency=Пользовательские настройки валюты загружены.

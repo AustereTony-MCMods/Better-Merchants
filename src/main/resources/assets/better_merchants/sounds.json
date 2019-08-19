@@ -1,0 +1,42 @@
+{
+  "inventory": { 
+    "category": "player", 
+    "sounds": [
+      {
+        "name": "better_merchants:inventory"
+      }
+    ]
+  },
+  "sell": { 
+    "category": "player", 
+    "sounds": [
+      {
+        "name": "better_merchants:sell"
+      }
+    ]
+  },
+  "button_click": { 
+    "category": "player", 
+    "sounds": [
+      {
+        "name": "better_merchants:button_click"
+      }
+    ]
+  },
+  "context_open": { 
+    "category": "player", 
+    "sounds": [
+      {
+        "name": "better_merchants:context_open"
+      }
+    ]
+  },
+  "context_close": { 
+    "category": "player", 
+    "sounds": [
+      {
+        "name": "better_merchants:context_close"
+      }
+    ]
+  }
+}
